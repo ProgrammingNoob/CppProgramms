@@ -1,4 +1,4 @@
-C++ Programms
+C++ Programs
 ============
 
 The following programs, are solutions for pro/g/ramming for noobs V1.2.1 and V1.0.0.
